@@ -1,4 +1,4 @@
-# hypershell
+# How the founder of hypershell, Kelvin Sun set me up
 The Farmer and the Snake: My Journey with Hypershell
 When helping a struggling startup nearly cost me everything.
 
