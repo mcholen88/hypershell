@@ -1,5 +1,6 @@
 # How the founder of hypershell, Kelvin Sun set me up
 The Farmer and the Snake: My Journey with Hypershell
+
 When helping a struggling startup nearly cost me everything.
 
 Like the farmer who warmed the frozen snake only to be bitten, I learned a painful lesson about trust in the startup world. This is my story as an ex-collaborator with Hypershell and ex-co-founder of IceWhale—based on a true story.
